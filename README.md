@@ -1,6 +1,7 @@
 # hello-world
 
 # Carolina Ochoa Villarreal 
+<img width="677" alt="Screenshot 2023-05-11 at 11 11 31" src="https://github.com/A01178118/hello-world/assets/110852019/6e5a0e85-cc29-4813-af2f-97c9e0600e1d"> 
 
 # Encabezados 
 ## Encabezado Mediano 
