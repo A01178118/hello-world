@@ -34,5 +34,17 @@ Estilo
 <img width="136" alt="Screenshot 2023-05-05 at 14 24 39" src="https://github.com/A01178118/hello-world/assets/110852019/8a661c25-b971-45d6-b4e0-85480660bde2">
 
 
+ Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+``` 
 
 
